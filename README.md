@@ -27,4 +27,4 @@ Escript is distributed under the [GNU General Public License v3.0](https://githu
 |✓ Private use     | | |
 
 # Contact me
-If you want to contact me, you can reach me at flezzers@gmail.com or archbool@ya.ru
+If you want to contact me, you can reach me at flezzers@gmail.com
