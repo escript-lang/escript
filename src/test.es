@@ -1,0 +1,3 @@
+func tmp
+
+tmp()
